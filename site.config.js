@@ -33,8 +33,9 @@ const CONFIG = {
   },
 
   // notion configuration (required)
+  // https://verdant-failing-c8d.notion.site/1704e7eecded45e28d71d70362b72f34?v=e2474f021ba742cab96c482034630ae0
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: '1704e7eecded45e28d71d70362b72f34',
   },
 
   // plugin configuration (optional)
